@@ -1,9 +1,10 @@
 import React from 'react';
+import { Header } from '../../components/Header/Index';
 
-interface AppProps {
-  // Props
-}
-
-export const App: React.FC<AppProps> = (props: AppProps) => {
-  return <div>index</div>;
+export const App = () => {
+  return (
+    <>
+      <Header />
+    </>
+  );
 };

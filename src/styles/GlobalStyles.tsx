@@ -10,7 +10,8 @@ const GlobalStyles = createGlobalStyle`
 body {
   margin: 0px;
   padding:0px;
-  background-color: #B8B8AB;
+  background-color: #FEFDF9;
+  font-family: 'Inter', sans-serif;
 }
 a {
   text-decoration: none;

@@ -11,7 +11,7 @@ const theme = {
     BG: '#FEFDF9',
   },
   container: {
-    maxWidth: '1200px',
+    maxWidth: '1111px',
     padding: '0 1rem',
     margin: '0 auto',
   },
