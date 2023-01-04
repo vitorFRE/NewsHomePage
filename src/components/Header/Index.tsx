@@ -80,7 +80,7 @@ const HeaderNav = styled.nav`
     left: 0;
     width: 30%;
     height: 100%;
-    background-color: rgba(0, 0, 70, 0.1);
+    background-color: rgba(0, 0, 70, 0.5);
   }
   > button {
     display: none;

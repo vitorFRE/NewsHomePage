@@ -32,6 +32,7 @@ li {
 img {
   display: block;
   max-width: 100%;
+  height:auto;
 }
 
 //Scroll
@@ -44,7 +45,7 @@ img {
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #FFFF00;
+  background-color:hsl(5, 85%, 63%);
   border-radius: 5px;
 }
 
